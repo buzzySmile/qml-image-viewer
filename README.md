@@ -13,6 +13,6 @@ Otherwise [Photo Viewer Demo](http://doc.qt.io/qt-5/qtquick-demos-photoviewer-ex
 ## Anyway you may find following Qt Quick features:
 * Using Qt Quick Controls to create an application window and controls.
 * Using .pro(_Qt classic_) and/or .qmlproject(_Qt Quick UI_) project file.
-* Using the Package type with a DelegateModel to provide delegates with a shared context to multiple views.
+* Using the Package type with a [DelegateModel](http://doc.qt.io/qt-5/qml-qtqml-models-delegatemodel.html) to provide delegates with a shared context to multiple views.
 * Providing feedback to users while data is loading with [ProgressBar type](http://doc.qt.io/qt-5/qml-qtquick-controls-progressbar.html)
 * Using [ProgressBarStyle type](http://doc.qt.io/qt-5/qml-qtquick-controls-styles-progressbarstyle.html) for ProgressBar customization.
