@@ -7,6 +7,8 @@
 
 The main aim of Image Viewer project is demonstration of [Package QML type](http://doc.qt.io/qt-5/qml-package.html) usage.
 
+![alt tag](https://github.com/buzzySmile/qml-image-viewer/blob/master/images/image-viewer-demo.gif?raw=true)
+
 Official documentation gives quite poor information and not so clear vision of concept.
 Otherwise [Photo Viewer Demo](http://doc.qt.io/qt-5/qtquick-demos-photoviewer-example.html) represents much more advanced usage and not so easy for understanding and code reusage.
 
